@@ -1,0 +1,14 @@
+# oss 信息
+
+# oss的region地址 例如 https://oss-cn-hangzhou.aliyuncs.com
+endpoint: 
+# oss AK
+accessKeyID: 
+# oss SK
+accessKeySecret: 
+# md文件所在路径
+note: 
+# oss中bucket名称
+bucketName: 
+# oss中直接指向bucket的url
+url: 
